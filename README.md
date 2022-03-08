@@ -27,4 +27,4 @@ Rscript ROI-Driver.R -i ./input_data/Input_mutation.txt -t domain -o ./output_da
 -o:output file
 
 ### Cite
-Haozhe Zou, Tao Pan, Yueying Gao, Renwei Chen, Si Li, Jing Guo, Zhanyu Tian, Gang Xu, Juan Xu, Yanlin Ma, Yongsheng Li, Pan-cancer assessment of mutational landscape in intrinsically disordered hotspots reveals potential driver genes, Nucleic Acids Research, 2022;, gkac028, https://doi.org/10.1093/nar/gkac028
+Zou H, Pan T, Gao Y, Chen R, Li S, Guo J, Tian Z, Xu G, Xu J, Ma Y, Li Y. Pan-cancer assessment of mutational landscape in intrinsically disordered hotspots reveals potential driver genes. Nucleic Acids Res. 2022 Jan 21:gkac028. doi: 10.1093/nar/gkac028. Epub ahead of print. PMID: 35061901.
